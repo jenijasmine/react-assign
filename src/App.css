@@ -1,0 +1,21 @@
+.App {
+    background-color : #8b9bc3;
+  }
+  code {
+      background-color : #eee;
+      color : #333;
+  }
+  pre{
+      padding : 10px;
+      overflow: scroll;
+      width : 600px;
+      background-color : #ccc;
+      color : #005;
+  }
+  pre > code {
+      background-color : #ccc;
+      color : #005;
+  }
+  .card{
+  
+  }
